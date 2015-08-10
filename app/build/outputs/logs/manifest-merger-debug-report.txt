@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:6:1
+	package
+		ADDED from AndroidManifest.xml:7:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:9:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:8:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:6:11
+uses-sdk
+ADDED from AndroidManifest.xml:11:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:13:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:12:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:15:5
+	android:name
+		ADDED from AndroidManifest.xml:15:22
+supports-screens
+ADDED from AndroidManifest.xml:16:5
+	android:largeScreens
+		ADDED from AndroidManifest.xml:16:80
+	android:smallScreens
+		ADDED from AndroidManifest.xml:16:52
+	android:normalScreens
+		ADDED from AndroidManifest.xml:16:23
+	android:xlargeScreens
+		ADDED from AndroidManifest.xml:16:160
+	android:resizeable
+		ADDED from AndroidManifest.xml:16:108
+	android:anyDensity
+		ADDED from AndroidManifest.xml:16:134
+application
+ADDED from AndroidManifest.xml:18:5
+	android:label
+		ADDED from AndroidManifest.xml:21:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:19:9
+	android:icon
+		ADDED from AndroidManifest.xml:20:9
+	android:theme
+		ADDED from AndroidManifest.xml:22:9
+activity#org.snowfountain.game.activities.MainActivity
+ADDED from AndroidManifest.xml:23:9
+	android:label
+		ADDED from AndroidManifest.xml:27:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:25:13
+	android:icon
+		ADDED from AndroidManifest.xml:26:13
+	android:theme
+		ADDED from AndroidManifest.xml:28:13
+	android:name
+		ADDED from AndroidManifest.xml:24:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:29:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:30:17
+	android:name
+		ADDED from AndroidManifest.xml:30:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:32:17
+	android:name
+		ADDED from AndroidManifest.xml:32:27
+activity#org.snowfountain.game.activities.GameActivity
+ADDED from AndroidManifest.xml:35:9
+	android:label
+		ADDED from AndroidManifest.xml:37:13
+	android:theme
+		ADDED from AndroidManifest.xml:38:13
+	android:name
+		ADDED from AndroidManifest.xml:36:13
+activity#org.snowfountain.game.activities.SettingsActivity
+ADDED from AndroidManifest.xml:40:9
+	android:label
+		ADDED from AndroidManifest.xml:43:13
+	android:icon
+		ADDED from AndroidManifest.xml:42:13
+	android:name
+		ADDED from AndroidManifest.xml:41:13
+activity#org.snowfountain.game.activities.AdvancedSettingsActivity
+ADDED from AndroidManifest.xml:45:9
+	android:label
+		ADDED from AndroidManifest.xml:48:13
+	android:icon
+		ADDED from AndroidManifest.xml:47:13
+	android:name
+		ADDED from AndroidManifest.xml:46:13
+activity#org.snowfountain.game.activities.AboutActivity
+ADDED from AndroidManifest.xml:50:9
+	android:label
+		ADDED from AndroidManifest.xml:53:13
+	android:icon
+		ADDED from AndroidManifest.xml:52:13
+	android:name
+		ADDED from AndroidManifest.xml:51:13
+activity#org.snowfountain.game.activities.HelpActivity
+ADDED from AndroidManifest.xml:55:9
+	android:label
+		ADDED from AndroidManifest.xml:57:13
+	android:name
+		ADDED from AndroidManifest.xml:56:13

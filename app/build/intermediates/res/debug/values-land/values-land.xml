@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/emma/AndroidStudioProjects/SnowFountain/app/src/main/res/values-land/Constants.xml -->
+    <eat-comment/>
+    <integer name="padding_columns">1</integer>
+</resources>
